@@ -13,3 +13,5 @@ jobs:
         stale-pr-message: 'pr ini di-stale-kan'
         stale-pr-label: 'no-pr-activity'
         exempt-pr-label: 'awaiting-approval'
+        days-before-stale: 0
+        days-before-close: 0
