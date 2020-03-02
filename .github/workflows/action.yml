@@ -15,3 +15,4 @@ jobs:
         exempt-pr-label: 'awaiting-approval'
         days-before-stale: 0
         days-before-close: 0
+        close-pr-message: 'pr bakal diclose'
