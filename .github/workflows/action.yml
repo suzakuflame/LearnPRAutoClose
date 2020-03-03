@@ -1,4 +1,4 @@
-name: "Close stale issues"
+name: "Close stale pull request"
 on:
   schedule:
   - cron: "*/5 * * * *"
