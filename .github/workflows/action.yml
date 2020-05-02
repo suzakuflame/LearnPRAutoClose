@@ -1,7 +1,7 @@
 name: "Close stale pull request"
 on:
   schedule:
-  - cron: "*/2 * * * *"
+  - cron: "0 5 1 * *"
 
 jobs:
   stale:
